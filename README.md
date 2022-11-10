@@ -342,9 +342,16 @@
 ### Also change `Background opacity` to `50%` and enabled `Enable acrylic material`
 ![image](https://user-images.githubusercontent.com/117252369/201176409-bb6d5599-7599-41e8-a113-dd4b72c28464.png)
 
-4. Install `scoop` by typing this line in `Powershell`
+4. Install `scoop` by typing this command line in `Powershell`
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
 irm get.scoop.sh | iex
+```
+
+5. Install [Git](https://git-scm.com/downloads)
+6. Install `Neovim` by typing this command line in `Powershell`
+
+```powershell
+scoop install neovim  
 ```
