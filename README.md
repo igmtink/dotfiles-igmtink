@@ -335,3 +335,9 @@
     "useAcrylicInTabRow": true
 }
 ```
+
+### Now go to `Defaults > Appearance` change `Color scheme` to `One Half Dark (MODDED)` and `Font face` to `Hack NFM`
+![image](https://user-images.githubusercontent.com/117252369/201176301-911a3ae4-3875-4e4a-8ecf-f0d533469e30.png)
+
+### Also change `Background opacity` to `50%` and enabled `Enable acrylic material`
+![image](https://user-images.githubusercontent.com/117252369/201176409-bb6d5599-7599-41e8-a113-dd4b72c28464.png)
