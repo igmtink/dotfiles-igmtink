@@ -355,3 +355,6 @@ irm get.scoop.sh | iex
 ```powershell
 scoop install neovim  
 ```
+
+Special Thanks: [Takuya Matsuyama](https://www.youtube.com/c/devaslife)
+You can watch the full video here: [How to set up PowerShell prompt with Oh My Posh on Windows 11](https://www.youtube.com/watch?v=5-aK2_WwrmM&list=PLmMocGWXmbd_MTRMJTTK8lCxmBcjYZvF_&index=5&t=987s)
