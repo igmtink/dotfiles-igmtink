@@ -117,6 +117,8 @@ Just copy and paste my code in `keymaps.lua`
 - [Lulaline](https://github.com/nvim-lualine/lualine.nvim)
   - Create a `lualine.lua` file inside folder of `plugins` then copy and paste my `lualine.lua`
   - Initialize it on `init.lua` `require "igmtink.plugins.lualine"`
+- [Telescope Fuzzy Finder](https://github.com/nvim-telescope/telescope.nvim#getting-started)
+  - Usage is on our `keymaps.lua`
 
 ***
 
