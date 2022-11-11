@@ -174,8 +174,8 @@ Language Server Protocol
 - [Nvim Lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [CMP Nvim Lspconfig](https://github.com/hrsh7th/cmp-nvim-lsp)
 - [Lspsaga](https://github.com/glepnir/lspsaga.nvim)
-- []()
-- []()
+- [Typescript](https://github.com/jose-elias-alvarez/typescript.nvim)
+- [Lspkind](https://github.com/onsails/lspkind.nvim)
 
 ***
 
