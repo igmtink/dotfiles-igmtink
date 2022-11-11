@@ -41,7 +41,22 @@ return require('packer').startup(function(use)
 
   use "tpope/vim-surround" -- Surrounding the text
 
-   use "vim-scripts/ReplaceWithRegister" -- Copy the first text and replace it on the second text
+  use "vim-scripts/ReplaceWithRegister" -- Copy the first text and replace it on the second text
+   
+  use "numToStr/Comment.nvim" -- Commenting line
+
+  use "nvim-tree/nvim-tree.lua" -- File Explorer
+
+  use "kyazdani42/nvim-web-devicons" -- Icons
+
+  use "nvim-lualine/lualine.nvim" -- Statusline
+
+  -- File Explorer Search
+  use {
+  'nvim-telescope/telescope.nvim', tag = '0.1.0',
+-- or                            , branch = '0.1.x',
+  requires = { {'nvim-lua/plenary.nvim'} }
+}
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
