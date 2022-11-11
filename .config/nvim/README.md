@@ -89,7 +89,9 @@ Just copy and paste my code in `colorscheme.lua`
 
 ***
 
-- keymaps.lua - For keybindings
+### keymaps.lua - For keybindings
+
+Just copy and paste my code in `colorscheme.lua`
 
 ***
 
