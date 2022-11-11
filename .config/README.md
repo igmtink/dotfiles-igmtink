@@ -8,12 +8,18 @@ The command line that our using:
 ```powershell
 mkdir ./config/nvim
 cd ./config/nvim
+
 mkdir lua
 touch init.lua
 cd lua
 mkdir (whatever you want name)
 cd (whatever you want name that you created folder)
-mkdir core
+
 mkdir plugins
-touch plugins-setup
+touch plugins-setup.lua // This is for plugins
+
+mkdir core
+cd core
+touch colorscheme.lua // This is for color theming
+touch keymaps.lua // This for keymap, keybindings
 ```
