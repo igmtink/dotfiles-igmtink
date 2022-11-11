@@ -97,6 +97,9 @@ Just copy and paste my code in `keymaps.lua`
 
 ## Plugins:
 - [Tmux & Split Window Navigation](https://github.com/christoomey/vim-tmux-navigator)
+  - Usage is on the link
+- [Vim Maximizer](https://github.com/szw/vim-maximizer)
+  - Usage is on our `keymaps.lua`
 
 ***
 
