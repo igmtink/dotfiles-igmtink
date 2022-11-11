@@ -102,6 +102,8 @@ Just copy and paste my code in `keymaps.lua`
   - Usage is on our `keymaps.lua`
 - [Vim Surrounding](https://github.com/tpope/vim-surround)
   - Usage is on the link
+- [Replace with Register](https://github.com/vim-scripts/ReplaceWithRegister)
+  - Usage is on the link
 
 ***
 
