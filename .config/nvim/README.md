@@ -161,6 +161,10 @@ Autocompletion like an `enslint`
 - [CMP Buffer](https://github.com/hrsh7th/cmp-buffer)
 - [CMP Path](https://github.com/hrsh7th/cmp-path)
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
+- [CMP Luasnip](https://github.com/saadparwaiz1/cmp_luasnip)
+- [Friendly Snippets](https://github.com/rafamadriz/friendly-snippets)
+  - Create a `nvim-cmp.lua` file inside folder of `plugins` then copy and paste my `nvim-cmp.lua`
+  - Initialize it on `init.lua` `require "igmtink.plugins.nvim-cmp"`
 
 ***
 
