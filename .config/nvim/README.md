@@ -104,6 +104,10 @@ Just copy and paste my code in `keymaps.lua`
   - Usage is on the link
 - [Replace with Register](https://github.com/vim-scripts/ReplaceWithRegister)
   - Usage is on the link
+- [Comment](https://github.com/numToStr/Comment.nvim)
+  - Create a `comment.lua` file inside folder of `plugins` then copy and paste my `comment.lua`
+  - Initialize it on `init.lua` `require "igmtink.plugins.comment"`
+  - Usage is on the link
 
 ***
 
