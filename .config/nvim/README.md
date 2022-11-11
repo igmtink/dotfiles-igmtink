@@ -96,6 +96,7 @@ Just copy and paste my code in `keymaps.lua`
 ***
 
 ## Plugins:
+### Make sure you didn't modify our `plugins-setup.lua`
 - [Tmux & Split Window Navigation](https://github.com/christoomey/vim-tmux-navigator)
   - Usage is on the link
 - [Vim Maximizer](https://github.com/szw/vim-maximizer)
@@ -111,8 +112,11 @@ Just copy and paste my code in `keymaps.lua`
 - [Nvim Tree File Exporer](https://github.com/nvim-tree/nvim-tree.lua)
   - Create a `nvim-tree.lua` file inside folder of `plugins` then copy and paste my `nvim-tree.lua`
   - Initialize it on `init.lua` `require "igmtink.plugins.nvim-tree"`
-  - Usage is on the link
+  - Usage is on our `keymaps.lua`
 - [Nvim Icons](https://github.com/nvim-tree/nvim-web-devicons)
+- [Lulaline](https://github.com/nvim-lualine/lualine.nvim)
+  - Create a `lualine.lua` file inside folder of `plugins` then copy and paste my `lualine.lua`
+  - Initialize it on `init.lua` `require "igmtink.plugins.nvim-tree"`
 
 ***
 
