@@ -12,7 +12,7 @@ Import-Module PSReadLine
 Set-PSReadLineOption -PredictionViewStyle ListView
 Set-PSReadLineOption -EditMode Emacs
 Set-PSReadLineOption -BellStyle None
-Set-PSReadLineKeyHandler -Chord 'Ctrl+d' -Function DeleteChar
+Set-PSReadLineKeyHandler -Chord Delete -Function DeleteChar
 Set-PSReadLineOption -PredictionSource History
 
 # Fzf
@@ -36,4 +36,10 @@ function touch {
   } else {
     New-Item -Type File -Path $Path
   }
+}
+
+function delh {
+  Clear-History
+  [Microsoft.PowerShell.PSConsoleReadLine]::ClearHistory()
+  Remove-Item "$env:APPDATA\Microsoft\Windows\PowerShell\PSReadLine\*"
 }
