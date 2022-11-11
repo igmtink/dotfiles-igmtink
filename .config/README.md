@@ -38,6 +38,12 @@ cd .config/nvim
 nvim init.lua
 ```
 
+Now initialize our `lua` file by adding this command:
+
+```lua
+require("igmtink.core.options")
+require("igmtink.core.keymaps")
+require("igmtink.core.colorscheme")
 ***
 
 - plugins-setup.lua - For plugins
