@@ -91,6 +91,8 @@ Just copy and paste my code in `colorscheme.lua`
 
 - keymaps.lua - For keybindings
 
-Special Thanks: [Josean Martinez](https://www.youtube.com/watch?v=vdn_pKJUda8&list=PLmMocGWXmbd_MTRMJTTK8lCxmBcjYZvF_&index=2&t=449s)
+***
 
-Video Tutorial: [How I Setup Neovim On My Mac To Make It Amazing - Complete Guide](https://www.youtube.com/watch?v=vdn_pKJUda8&list=PLmMocGWXmbd_MTRMJTTK8lCxmBcjYZvF_&index=2&t=449s)
+### Special Thanks: [Josean Martinez](https://www.youtube.com/watch?v=vdn_pKJUda8&list=PLmMocGWXmbd_MTRMJTTK8lCxmBcjYZvF_&index=2&t=449s)
+
+### Video Tutorial: [How I Setup Neovim On My Mac To Make It Amazing - Complete Guide](https://www.youtube.com/watch?v=vdn_pKJUda8&list=PLmMocGWXmbd_MTRMJTTK8lCxmBcjYZvF_&index=2&t=449s)
