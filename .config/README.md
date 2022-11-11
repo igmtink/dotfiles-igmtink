@@ -25,13 +25,17 @@ cd core
 touch colorscheme.lua
 touch keymaps.lua
 touch options.lua
+```
 
-cd ../../..
+init.lua - For initializing
+
+Now edit the `init.lua` using our `Neovim`, type this command line in `Powershell`: 
+
+```powershell
+cd .config/nvim
 nvim init.lua
 ```
 
-Files
-- init.lua - For initializing
 - plugins-setup.lua - For plugins
 - colorscheme.lua - For colors and theming
 - keymaps.lua - For keybindings
