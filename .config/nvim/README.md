@@ -91,7 +91,12 @@ Just copy and paste my code in `colorscheme.lua`
 
 ### keymaps.lua - For keybindings
 
-Just copy and paste my code in `colorscheme.lua`
+Just copy and paste my code in `keymaps.lua`
+
+***
+
+### Plugins:
+- [Tmux & Split Window Navigation](https://github.com/christoomey/vim-tmux-navigator)
 
 ***
 
