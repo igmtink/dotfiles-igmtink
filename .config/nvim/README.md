@@ -100,6 +100,8 @@ Just copy and paste my code in `keymaps.lua`
   - Usage is on the link
 - [Vim Maximizer](https://github.com/szw/vim-maximizer)
   - Usage is on our `keymaps.lua`
+- [Vim Surrounding](https://github.com/tpope/vim-surround)
+  - Usage is on the link
 
 ***
 
