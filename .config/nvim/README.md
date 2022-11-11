@@ -108,6 +108,10 @@ Just copy and paste my code in `keymaps.lua`
   - Create a `comment.lua` file inside folder of `plugins` then copy and paste my `comment.lua`
   - Initialize it on `init.lua` `require "igmtink.plugins.comment"`
   - Usage is on the link
+- [Nvim Tree File Exporer](https://github.com/nvim-tree/nvim-tree.lua)
+  - Create a `nvim-tree.lua` file inside folder of `plugins` then copy and paste my `nvim-tree.lua`
+  - Initialize it on `init.lua` `require "igmtink.plugins.nvim-tree"`
+  - Usage is on the link
 
 ***
 
