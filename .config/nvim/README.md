@@ -112,6 +112,7 @@ Just copy and paste my code in `keymaps.lua`
   - Create a `nvim-tree.lua` file inside folder of `plugins` then copy and paste my `nvim-tree.lua`
   - Initialize it on `init.lua` `require "igmtink.plugins.nvim-tree"`
   - Usage is on the link
+- [Nvim Icons](https://github.com/nvim-tree/nvim-web-devicons)
 
 ***
 
