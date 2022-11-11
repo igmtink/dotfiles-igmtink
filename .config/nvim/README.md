@@ -25,7 +25,7 @@
 3. Create a three folder name it with `lua` `after` `plugin`
 4. Create a folder name `yourUserName` inside `lua` folder, then copy all my files in `lua/igmtink` folder and paste it to your folder.
 5. Install `packer.nvim` for plugin manager.
-  - Install `packer.nvim` via [powershell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-ph&gl=ph): `git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"`
+    - Install `packer.nvim` via [powershell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-ph&gl=ph): `git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"`
 6. Install your prefer language server (this is for lspconfig)
     - Sumneko Lua: `scoop lua-language-server`
     - Typscript: `npm install -g typescript-language-server typescript`
@@ -36,5 +36,5 @@
     - Json Language Server: `npm i -g vscode-langservers-extracted`
     - Astro: `npm install -g @astrojs/language-server`
 7. Open `nvim` text editor, just type `nvim` in your `powershell`
-  - Install all plugins in `packer.nvim` by typing this command in `nvim`: `:PackerInstall`
+    - Install all plugins in `packer.nvim` by typing this command in `nvim`: `:PackerInstall`
 8. After installing all plugins, you can now copy and paste all my `lua` files to your `nvim` config folder.
