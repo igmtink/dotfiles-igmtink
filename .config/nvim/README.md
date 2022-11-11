@@ -52,6 +52,14 @@ Now save the changes and quit by typing this command inside `Neovim`:
 :wq
 ```
 
+Note: If this procedure of initializing `init.lua` is not working, type this command line:
+
+```nvim
+:echo stdpath('config')
+```
+
+So you will see where is your `nvim` config path
+
 ***
 
 ### options.lua - For basic options and settings
