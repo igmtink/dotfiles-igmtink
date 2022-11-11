@@ -172,8 +172,8 @@ Language Server Protocol
 - [Mason](https://github.com/williamboman/mason.nvim)
 - [Mason Lspconfig](https://github.com/williamboman/mason-lspconfig.nvim)
 - [Nvim Lspconfig](https://github.com/neovim/nvim-lspconfig)
-- []()
-- []()
+- [CMP Nvim Lspconfig](https://github.com/hrsh7th/cmp-nvim-lsp)
+- [Lspsaga](https://github.com/glepnir/lspsaga.nvim)
 - []()
 - []()
 
