@@ -46,6 +46,12 @@ require("igmtink.core.keymaps")
 require("igmtink.core.colorscheme")
 ```
 
+Now save the changes and quit by typing this command inside `Neovim`:
+
+```nvim
+:wq
+```
+
 ***
 
 - plugins-setup.lua - For plugins
