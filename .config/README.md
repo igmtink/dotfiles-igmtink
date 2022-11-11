@@ -54,7 +54,13 @@ Now save the changes and quit by typing this command inside `Neovim`:
 
 ***
 
+# options.lua - For basic options and settings
+
+Just copy and paste my code in `options.lua`
+
+***
+
 - plugins-setup.lua - For plugins
 - colorscheme.lua - For colors and theming
 - keymaps.lua - For keybindings
-- options.lua - For basic options and settings
+
