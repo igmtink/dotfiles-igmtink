@@ -176,7 +176,8 @@ Language Server Protocol
 - [Lspsaga](https://github.com/glepnir/lspsaga.nvim)
 - [Typescript](https://github.com/jose-elias-alvarez/typescript.nvim)
 - [Lspkind](https://github.com/onsails/lspkind.nvim)
-
+  - Create `lsp` folder inside folder of `plugins` then copy all my files in `lsp` folder paste it to your `lsp` folder
+  - Initialize it all on `init.lua` `require "igmtink.plugin.lsp.(all .lua file inside lsp folder)`
 ***
 
 ### Special Thanks: [Josean Martinez](https://www.youtube.com/watch?v=vdn_pKJUda8&list=PLmMocGWXmbd_MTRMJTTK8lCxmBcjYZvF_&index=2&t=449s)
