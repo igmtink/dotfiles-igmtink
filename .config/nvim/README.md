@@ -116,7 +116,7 @@ Just copy and paste my code in `keymaps.lua`
 - [Nvim Icons](https://github.com/nvim-tree/nvim-web-devicons)
 - [Lulaline](https://github.com/nvim-lualine/lualine.nvim)
   - Create a `lualine.lua` file inside folder of `plugins` then copy and paste my `lualine.lua`
-  - Initialize it on `init.lua` `require "igmtink.plugins.nvim-tree"`
+  - Initialize it on `init.lua` `require "igmtink.plugins.lualine"`
 
 ***
 
