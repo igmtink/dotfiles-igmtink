@@ -95,7 +95,7 @@ Just copy and paste my code in `keymaps.lua`
 
 ***
 
-### Plugins:
+## Plugins:
 - [Tmux & Split Window Navigation](https://github.com/christoomey/vim-tmux-navigator)
 
 ***
