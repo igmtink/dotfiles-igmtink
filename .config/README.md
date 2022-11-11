@@ -1,9 +1,9 @@
 Create a folder to setup our `Neovim` config, by typing this command line in our `Powershell` one by one
 
 The command line that our using:
-`mkdir` - for creating a new folder
-`cd` - for changing directory
-`touch` - for creating a file
+- `mkdir` - for creating a new folder
+- `cd` - for changing directory
+- `touch` - for creating a file
 
 ```powershell
 mkdir ./config/nvim
