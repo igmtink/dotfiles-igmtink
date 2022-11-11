@@ -83,6 +83,11 @@ require "igmtink.core.colorscheme"
 
 ***
 
-- colorscheme.lua - For colors and theming
+### colorscheme.lua - For colors and theming
+
+Just copy and paste my code in `colorscheme.lua`
+
+***
+
 - keymaps.lua - For keybindings
 
