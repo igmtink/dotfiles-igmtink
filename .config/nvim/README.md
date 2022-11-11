@@ -97,26 +97,32 @@ Just copy and paste my code in `keymaps.lua`
 
 ## Plugins:
 ### Make sure you didn't modify our `plugins-setup.lua`
+
+This is for controling navigation both `tmux` & `nvim split window`
 - [Tmux & Split Window Navigation](https://github.com/christoomey/vim-tmux-navigator)
   - Usage is on the link
   
 ***
 
+This is for maximizing current `nvim split window`
 - [Vim Maximizer](https://github.com/szw/vim-maximizer)
   - Usage is on our `keymaps.lua`
   
 ***
 
+This is like `autopair` in `javascript`
 - [Vim Surrounding](https://github.com/tpope/vim-surround)
   - Usage is on the link
   
 ***
 
+Copying and replacing the text
 - [Replace with Register](https://github.com/vim-scripts/ReplaceWithRegister)
   - Usage is on the link
   
 ***
 
+To easy comment in code
 - [Comment](https://github.com/numToStr/Comment.nvim)
   - Create a `comment.lua` file inside folder of `plugins` then copy and paste my `comment.lua`
   - Initialize it on `init.lua` `require "igmtink.plugins.comment"`
@@ -124,27 +130,37 @@ Just copy and paste my code in `keymaps.lua`
   
 ***
 
-- [Nvim Tree File Exporer](https://github.com/nvim-tree/nvim-tree.lua)
+This is like a file explorer of `vscode`
+- [Nvim Tree File Explorer](https://github.com/nvim-tree/nvim-tree.lua)
   - Create a `nvim-tree.lua` file inside folder of `plugins` then copy and paste my `nvim-tree.lua`
   - Initialize it on `init.lua` `require "igmtink.plugins.nvim-tree"`
   - Usage is on our `keymaps.lua`
   
 ***
 
+It's like an a `vscode icons`
 - [Nvim Icons](https://github.com/nvim-tree/nvim-web-devicons)
 
 ***
 
+To display the statusline if you are in `Normal / Insert / Visual / Command` mode 
 - [Lulaline](https://github.com/nvim-lualine/lualine.nvim)
   - Create a `lualine.lua` file inside folder of `plugins` then copy and paste my `lualine.lua`
   - Initialize it on `init.lua` `require "igmtink.plugins.lualine"`
  
 ***
+
+It's like a searcher for file explorer
 - [Telescope Fuzzy Finder](https://github.com/nvim-telescope/telescope.nvim#getting-started)
   - Usage is on our `keymaps.lua`
   
 ***
+
+Autocompletion like an `enslint`
 - [Nvim CMP](https://github.com/hrsh7th/nvim-cmp)
+- [CMP Buffer](https://github.com/hrsh7th/cmp-buffer)
+- [CMP Path](https://github.com/hrsh7th/cmp-path)
+- [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 
 ***
 
