@@ -54,7 +54,7 @@ Now save the changes and quit by typing this command inside `Neovim`:
 
 ***
 
-# options.lua - For basic options and settings
+### options.lua - For basic options and settings
 
 Just copy and paste my code in `options.lua`
 
