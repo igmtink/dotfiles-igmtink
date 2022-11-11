@@ -41,9 +41,9 @@ nvim init.lua
 Now initialize our `lua` file by adding this command:
 
 ```lua
-require("igmtink.core.options")
-require("igmtink.core.keymaps")
-require("igmtink.core.colorscheme")
+require "igmtink.core.options"
+require "igmtink.core.keymaps"
+require "igmtink.core.colorscheme"
 ```
 
 Now save the changes and quit by typing this command inside `Neovim`:
@@ -68,7 +68,21 @@ Just copy and paste my code in `options.lua`
 
 ***
 
-- plugins-setup.lua - For plugins
+### plugins-setup.lua - For plugins
+
+Just copy and paste my code in `plugins-setup.lua`
+
+And edit again `init.lua` it will should be like this:
+
+```lua
+require "igmtink.plugins-setup" -- It should be at the top
+require "igmtink.core.options"
+require "igmtink.core.keymaps"
+require "igmtink.core.colorscheme"
+```
+
+***
+
 - colorscheme.lua - For colors and theming
 - keymaps.lua - For keybindings
 
