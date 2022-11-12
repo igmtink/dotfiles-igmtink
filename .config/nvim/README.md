@@ -29,9 +29,9 @@
     - Typscript: `npm install -g typescript-language-server typescript`
     - TailwindCSS: `npm install -g @tailwindcss/language-server`
     - CSS: `npm i -g vscode-langservers-extracted`
-    - Emmet Language Server: `npm install -g emmet-ls`
     - HTML: `npm i -g vscode-langservers-extracted`
     - Json Language Server: `npm i -g vscode-langservers-extracted`
+    - Emmet Language Server: `npm install -g emmet-ls`
     - Astro: `npm install -g @astrojs/language-server`
 7. Open `nvim` text editor, just type `nvim` in your `powershell`
     - Install all plugins in `packer.nvim` by typing this command in `nvim`: `:PackerInstall`
