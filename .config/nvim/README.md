@@ -43,7 +43,7 @@
 ***
 
 ## Neovim Keybind
-### Basic Neovim Keymap
+#### Basic Neovim Keymap
 a - For insert text (edit text)
 
 o - Insert text in new line
@@ -71,7 +71,7 @@ te - Open new tab
 
 ***
 
-### Lspsaga
+#### Lspsaga
 gr - Refactoring
 
 ctr + k - Diagnostic Jump
@@ -89,7 +89,7 @@ d - Delete
 
 ***
 
-### Vim Surround
+#### Vim Surround
 ysw" - For surround the word with (double quote)
 
 cs"' - For replacing (double quote) with (single quot)
@@ -98,14 +98,14 @@ ds" - For deleting the surround (double quote)
 
 ***
 
-### Comment
+#### Comment
 gcc - Comment the line
 
 gc(number)j - Comment with specific number of line
 
 ***
 
-### Nvim Tree File Exporer
+#### Nvim Tree File Exporer
 leader + e - Open file explorer
 
 a - To create a file in file explorer
