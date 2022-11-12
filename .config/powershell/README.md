@@ -31,6 +31,7 @@ irm get.scoop.sh | iex
    - Terminal Icons: `Install-Module -Name Terminal-Icons -Repository PSGallery`
    - PSReadLine: `Install-Module PSReadLine -AllowPrerelease -Force`
    - PSFzf: `Install-Module -Name PSFzf`
+7. Install `Oh-My-Posh` theme manager: `scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json`
 
 
 ### Special Thanks: [Takuya Matsuyama](https://www.youtube.com/c/devaslife)
