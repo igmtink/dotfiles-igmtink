@@ -36,4 +36,4 @@
 7. Open `nvim` text editor, just type `nvim` in your `powershell`
     - Install all plugins in `packer.nvim` by typing this command in `nvim`: `:PackerInstall`
 8. After installing all plugins, you can now copy and paste all my `lua` files to your `nvim` config folder.
-9. After copying all my `lua` files, open again your `nvim` then type this command `:TSUpdate` to download all essentials requirements for `Tree-Sitter`
+9. After copying all my `lua` files, open again your `nvim` then type this command `:TSUpdate` to download all requirements for `Tree-Sitter`
