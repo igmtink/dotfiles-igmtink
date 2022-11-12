@@ -10,8 +10,6 @@
     - `irm get.scoop.sh | iex`
 - GCC Compiler
   - Install gcc via [scoop](https://scoop.sh/): `scoop install gcc`
-- Tree-Sitter-CLI
-  - Install tree-sitter-cli via npm: `npm i tree-sitter-cli`
 - Neovim Hyperextensible Vim-based Text Editor
   - Install bucket add extras via [scoop](https://scoop.sh/): `scoop bucket add extras`
   - Install vcredist2022 via [scoop](https://scoop.sh/): `scoop install vcredist2022`
