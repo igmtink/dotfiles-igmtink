@@ -58,6 +58,19 @@ irm get.scoop.sh | iex
 
 ***
 
+## Powershell Keybind
+
+ctrl + shift + v - Split pane right
+ctrl + shift + s - Split pane down
+ctrl + shift + s - Resize pane down
+ctrl + shift + w - Resize pane up
+ctrl + shift + a - Resize pane left
+ctrl + shift + d - Resize pane right
+ctrl + 1 - 9 - Switch pane
+ctrl + shift + w - Close pane
+
+***
+
 ### Special Thanks: [Takuya Matsuyama](https://www.youtube.com/c/devaslife)
 
 ### You can watch the full video here: [How to set up PowerShell prompt with Oh My Posh on Windows 11](https://www.youtube.com/watch?v=5-aK2_WwrmM&list=PLmMocGWXmbd_MTRMJTTK8lCxmBcjYZvF_&index=5&t=987s)
