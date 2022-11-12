@@ -78,7 +78,7 @@ ctr + k - Diagnostic Jump
 
 ***
 
-### Telescope Fuzzy Finder
+#### Telescope Fuzzy Finder
 sf - To find file
 
 N - Create new file / folder
