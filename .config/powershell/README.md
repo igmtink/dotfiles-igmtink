@@ -62,11 +62,8 @@ irm get.scoop.sh | iex
 
 ctrl + shift + v - Split pane right
 ctrl + shift + s - Split pane down
-ctrl + shift + s - Resize pane down
-ctrl + shift + w - Resize pane up
-ctrl + shift + a - Resize pane left
-ctrl + shift + d - Resize pane right
-ctrl + 1 - 9 - Switch pane
+ctrl + shift + w / a / s / d - Resize pane
+ctrl + alt - w / a / s / d - Switch pane
 ctrl + shift + w - Close pane
 
 ***
