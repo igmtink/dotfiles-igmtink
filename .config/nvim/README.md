@@ -69,7 +69,9 @@ p - Paste the line (text)
 
 ctrl + a - Select all
 
-shift + g - Go to bottom of the line
+gg - Go to the first line
+
+shift + g - Go to the last line
 
 :%s/(multiple line text)/(replace text) - Refactoring
 
