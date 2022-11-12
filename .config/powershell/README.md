@@ -40,9 +40,21 @@ irm get.scoop.sh | iex
    - Terminal Icons: `Install-Module -Name Terminal-Icons -Repository PSGallery`
    - PSReadLine: `Install-Module PSReadLine -AllowPrerelease -Force`
    - PSFzf: `Install-Module -Name PSFzf`
+   - Z: `Install-Module -Name z`
 7. Install `Oh-My-Posh` theme manager: `scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json`
 8. Copy all my files to your `.config` folder
 
+***
+
+## PowerShell Modules
+
+- [Scoop](https://scoop.sh/) - A command-line installer
+- [Git for Windows](https://gitforwindows.org/)
+- [Oh My Posh](https://ohmyposh.dev/) - Prompt theme engine
+- [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - Folder and file icons
+- [PSReadLine](https://docs.microsoft.com/en-us/powershell/module/psreadline/) - Cmdlets for customizing the editing environment, used for autocompletion
+- [z](https://www.powershellgallery.com/packages/z) - Directory jumper
+- [PSFzf](https://github.com/kelleyma49/PSFzf) - Fuzzy finder
 
 ### Special Thanks: [Takuya Matsuyama](https://www.youtube.com/c/devaslife)
 
