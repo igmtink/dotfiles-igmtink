@@ -32,6 +32,7 @@ irm get.scoop.sh | iex
    - PSReadLine: `Install-Module PSReadLine -AllowPrerelease -Force`
    - PSFzf: `Install-Module -Name PSFzf`
 7. Install `Oh-My-Posh` theme manager: `scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json`
+8. Copy all my files to your `.config` folder
 
 
 ### Special Thanks: [Takuya Matsuyama](https://www.youtube.com/c/devaslife)
