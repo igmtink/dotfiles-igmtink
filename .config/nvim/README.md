@@ -22,7 +22,7 @@
 ### Configuring Neovim
 1. Check where your `nvim` config folder is located by typing this command inside `nvim`: `:echo stdpath('config')`
 2. Create a file `init.lua` inside `nvim` config folder.
-3. Create a three folder name it with `lua` `after` `plugin`
+3. Create a two folder name it with `lua` `plugin`
 4. Create a folder name `yourUserName` inside `lua` folder, then copy all my files in `lua/igmtink` folder and paste it to your folder.
 5. Install `packer.nvim` for plugin manager.
     - Install `packer.nvim` via [powershell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-ph&gl=ph): `git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"`
