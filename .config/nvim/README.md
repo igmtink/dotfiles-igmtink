@@ -57,6 +57,8 @@ o - Insert text in new line
 
 x - Deleting the character
 
+dw - Delete a word backwards
+
 yw - For copying text
 
 u / shift + w - For undo the text changes
@@ -74,7 +76,15 @@ shift + g - Go to bottom of the line
 sv - Split window vertically
 ss - Split window horizontally
 
+sh - Change split window left
+sl - Change split window right
+sj - Change split window down
+sk - Change split window up
+
 te - Open new tab
+
++ - Increment
+- - Decrement
 
 ***
 
