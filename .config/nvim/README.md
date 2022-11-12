@@ -79,7 +79,7 @@ gg - Go to the first line
 
 shift + g - Go to the last line
 
-^ - Jump to the first non-blank character of the line
+0 - Jump to the the start of the line
 
 $ - Jump to the end of the line
 
