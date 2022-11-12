@@ -46,12 +46,19 @@
 
 ### Basic Neovim Keymap
 a - For insert text (edit text)
+
 o - Insert text in new line
+
 x - Deleting the character
+
 yw - For copying text
+
 u / shift + w - For undo the text changes
+
 d - Cut the line (text)
+
 p - Paste the line (text)
+
 ctrl + a - Select all
 
 shift + g - Go to bottom of the line
@@ -67,41 +74,41 @@ te - Open new tab
 
 ### Lspsaga
 gr - Refactoring
+
 ctr + k - Diagnostic Jump
 
 ***
 
 ### Telescope Fuzzy Finder
 sf - To find file
+
 N - Create new file / folder
+
 r - Rename
+
 d - Delete
 
 ***
 
 ### Vim Surround
 ysw" - For surround the word with (double quote)
+
 cs"' - For replacing (double quote) with (single quot)
+
 ds" - For deleting the surround (double quote)
 
 ***
 
 ### Comment
 gcc - Comment the line
+
 gc(number)j - Comment with specific number of line
 
 ***
 
 ### Nvim Tree File Exporer
 leader + e - Open file explorer
-a - To create a file in file explorer
-d - Deleting a file in file explorer
 
-### LSP
-gd - To open the file where is located our import file (reactjs)
-ctrl + o - Jump back where the current file you editing
-ctrl + i - Jump forwad where the file you open using (gd)
-]d - Jumping where the error come from
-leader + ca - To see code action for fixing the error
-leader + rn - To rename the import name everywhere
-leader + rf - To rename typescript file everywhere
+a - To create a file in file explorer
+
+d - Deleting a file in file explorer
