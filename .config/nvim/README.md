@@ -59,9 +59,11 @@ x - Deleting the character
 
 dw - Delete a word backwards
 
-yw - For copying text
+y - For copying text
 
 u - Undo
+
+shift + v - Start linewise visual mode
 
 ctrl + r - Redo
 
@@ -76,6 +78,10 @@ ctrl + a - Select all
 gg - Go to the first line
 
 shift + g - Go to the last line
+
+^ - Jump to the first non-blank character of the line
+
+$ - Jump to the end of the line
 
 } - Jump to next paragraph
 
