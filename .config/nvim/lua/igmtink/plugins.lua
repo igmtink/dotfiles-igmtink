@@ -67,8 +67,5 @@ packer.startup(function(use)
 
   -- Gitsigns
   use 'lewis6991/gitsigns.nvim'
-    
-  -- Tmux & Nvim Navigation
-  use 'christoomey/vim-tmux-navigator'
 
 end)
