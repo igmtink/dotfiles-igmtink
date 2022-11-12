@@ -81,7 +81,13 @@ te - Open new tab
 #### Lspsaga
 gr - Refactoring
 
+gd - Finder
+
 ctr + k - Diagnostic Jump
+
+ctrl + j - Diagnostic Jump Next
+
+K - Hover Document
 
 ***
 
