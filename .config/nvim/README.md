@@ -1,4 +1,11 @@
-# Neovim Setup - Windows 11
+# Ivan's Neovim
+![image](https://user-images.githubusercontent.com/117252369/201470312-bfdf0706-ef77-4713-afc4-9ca8a391aaf1.png)
+
+![image](https://user-images.githubusercontent.com/117252369/201470348-5105f42e-a20c-4b08-912e-33a5479d1c9b.png)
+
+![image](https://user-images.githubusercontent.com/117252369/201470467-240f9d89-9188-4826-948c-7ee7df66f69b.png)
+
+***
 
 ## Requirements:
 - PowerShell Terminal [Download and Install](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-ph&gl=ph)
@@ -137,3 +144,9 @@ Requires [Neovim](https://neovim.io/) (>= 0.8)
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - A high-performance color highlighter
 - [akinsho/nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - A snazzy bufferline
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
+
+***
+
+### Special Thanks: [Takuya Matsuyama](https://www.youtube.com/c/devaslife)
+
+### You can watch the full video here: [Set up Neovim on a new M2 MacBook Air for coding React, TypeScript, Tailwind CSS, etc.](https://www.youtube.com/watch?v=5-aK2_WwrmM&list=PLmMocGWXmbd_MTRMJTTK8lCxmBcjYZvF_&index=5&t=987s)
