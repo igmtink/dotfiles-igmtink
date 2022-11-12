@@ -61,17 +61,25 @@ dw - Delete a word backwards
 
 yw - For copying text
 
-u / shift + w - For undo the text changes
+u - Undo
+
+ctrl + r - Redo
 
 d - Cut the line (text)
 
 p - Paste the line (text)
+
+shift + c - Change (replace) entire line
 
 ctrl + a - Select all
 
 gg - Go to the first line
 
 shift + g - Go to the last line
+
+} - Jump to next paragraph
+
+{ - Jump to previous paragraph
 
 :%s/(multiple line text)/(replace text) - Refactoring
 
@@ -99,7 +107,7 @@ ctr + k - Diagnostic Jump
 
 ctrl + j - Diagnostic Jump Next
 
-K - Hover Document
+shift + k - Hover Document
 
 ***
 
