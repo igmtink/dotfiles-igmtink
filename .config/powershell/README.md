@@ -27,11 +27,11 @@ irm get.scoop.sh | iex
 ```
 
 5. Install [Git](https://git-scm.com/downloads)
-6. Install `Neovim` by typing this command line in `Powershell`
+6. Install Requirements Module:
+   - Terminal Icons: `Install-Module -Name Terminal-Icons -Repository PSGallery`
+   - PSReadLine: `Install-Module PSReadLine -AllowPrerelease -Force`
+   - PSFzf: `Install-Module -Name PSFzf`
 
-```powershell
-scoop install neovim  
-```
 
 ### Special Thanks: [Takuya Matsuyama](https://www.youtube.com/c/devaslife)
 
