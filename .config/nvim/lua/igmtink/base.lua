@@ -33,12 +33,13 @@ vim.opt.expandtab = true
 vim.opt.smarttab = true
 vim.opt.breakindent = true
 vim.opt.shiftwidth = 2
-vim.opt.tabstop = 2 
+vim.opt.tabstop = 2
 vim.opt.ai = true
 vim.opt.si = true
 
 vim.opt.backup = false
 vim.opt.backupskip = '/tmp/*,/private/tmp/*'
+vim.opt.swapfile = false
 
 vim.opt.showcmd = true
 vim.opt.cmdheight = 1
