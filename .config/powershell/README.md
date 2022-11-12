@@ -1,7 +1,8 @@
 # Ivan Gregor Tabalno - Powershell Setup
 
-### Powershell
 ![image](https://user-images.githubusercontent.com/117252369/201470205-97d86472-9580-4377-94f0-3257bd71e7f0.png)
+
+***
 
 1. Install `Powershell` in microsoft store
 2. Download and Install [Hack Nerd Mono Windows Compatibility](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.2.2/Hack.zip)
