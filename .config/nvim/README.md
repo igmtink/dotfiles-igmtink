@@ -41,7 +41,9 @@
     - Json Language Server: `npm i -g vscode-langservers-extracted`
     - Emmet Language Server: `npm install -g emmet-ls`
     - Astro: `npm install -g @astrojs/language-server`
-    - Prettier: `npm install -g @fsouza/prettierd` - For Formatter
+    - Prettier: `npm install prettier` - For Formatter
+    - Prettierd: `npm install -g @fsouza/prettierd` - For Formatter
+    - Eslint_d: `npm install -g eslint_d` - For Linter
 8. Open `nvim` text editor, just type `nvim` in your `powershell`
     - Install all plugins in `packer.nvim` by typing this command in `nvim`: `:PackerInstall`
 9. After installing all plugins, you can now copy and paste all my `lua` files to your `nvim` config folder.
