@@ -1,4 +1,4 @@
-# Ivan Gregor Tabalno - Powershell Setup
+# Ivan's Powershell
 
 ![image](https://user-images.githubusercontent.com/117252369/201470205-97d86472-9580-4377-94f0-3257bd71e7f0.png)
 
