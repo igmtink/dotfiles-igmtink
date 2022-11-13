@@ -106,23 +106,12 @@ te - Open new tab
 
 ***
 
-#### Lspsaga
-gr - Refactoring
-
-gd - Finder
-
-ctr + k - Diagnostic Jump
-
-ctrl + j - Diagnostic Jump Next
-
-shift + k - Hover Document
-
-***
-
 #### Telescope Fuzzy Finder
 sf - To find file
 
 c - Create new file / folder
+
+tab - To select file / folder
 
 y - Copy file / folder
 
@@ -137,6 +126,20 @@ e - Go to home directory
 g - Go to parent directory
 
 w - Go to working directory
+
+***
+
+#### Lspsaga
+gr - Refactoring
+
+gd - Finder
+
+ctr + k - Diagnostic Jump
+
+ctrl + j - Diagnostic Jump Next
+
+shift + k - Hover Document
+
 
 ***
 
