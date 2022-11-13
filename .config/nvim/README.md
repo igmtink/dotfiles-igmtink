@@ -122,11 +122,17 @@ shift + k - Hover Document
 #### Telescope Fuzzy Finder
 sf - To find file
 
-N - Create new file / folder
+c - Create new file / folder
 
 r - Rename
 
 d - Delete
+
+e - Go to home directory
+
+g - Go to parent directory
+
+w - Go to working directory
 
 ***
 
