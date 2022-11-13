@@ -124,6 +124,10 @@ sf - To find file
 
 c - Create new file / folder
 
+y - Copy file / folder
+
+m - Move file / folder
+
 r - Rename
 
 d - Delete
