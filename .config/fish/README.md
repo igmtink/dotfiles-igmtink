@@ -1,5 +1,7 @@
 # Ivan's Fish
 
+![Screenshot from 2022-11-14 22-11-38](https://user-images.githubusercontent.com/117252369/201681672-fbba132b-faf4-4e08-ad9c-58ba43d729ae.png)
+
 1. Install [Fish Shell](https://fishshell.com/)
    - Ubuntu/Linux: `sudo apt install fish`
    - MacOS: `brew install fish`
