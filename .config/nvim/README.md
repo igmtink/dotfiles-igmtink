@@ -59,45 +59,28 @@
 - `dw = Delete a word backwards`
 - `y = For copying text`
 - `u = Undo`
-
-shift + v - Start linewise visual mode
-
-ctrl + r - Redo
-
-d - Cut the line (text)
-
-p - Paste the line (text)
-
-shift + c - Change (replace) entire line
-
-ctrl + a - Select all
-
-gg - Go to the first line
-
-shift + g - Go to the last line
-
-0 - Jump to the the start of the line
-
-$ - Jump to the end of the line
-
-} - Jump to next paragraph
-
-{ - Jump to previous paragraph
-
-:%s/(multiple line text)/(replace text) - Refactoring
-
-sv - Split window vertically
-ss - Split window horizontally
-
-sh - Change split window left
-sl - Change split window right
-sj - Change split window down
-sk - Change split window up
-
-te - Open new tab
-
-+ - Increment
-- - Decrement
+- `shift + v = Start linewise visual mode`
+- `ctrl + r = Redo`
+- `d = Cut the line (text)`
+- `p = Paste the line (text)`
+- `shift + c = Change (replace) entire line`
+- `ctrl + a = Select all`
+- `gg = Go to the first line`
+- `shift + g = Go to the last line`
+- `0 = Jump to the the start of the line`
+- `$ = Jump to the end of the line`
+- `} = Jump to next paragraph`
+- `{ = Jump to previous paragraph`
+- `:%s/(multiple line text)/(replace text) = Refactoring`
+- `sv = Split window vertically`
+- `ss = Split window horizontally`
+- `sh = Change split window left`
+- `sl = Change split window right`
+- `sj = Change split window down`
+- `sk = Change split window up`
+- `te = Open new tab`
+- `+ = Increment`
+- `- = Decrement`
 
 ***
 
