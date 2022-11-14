@@ -8,19 +8,12 @@
 ***
 
 ## Requirements:
-- PowerShell Terminal [Download and Install](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-ph&gl=ph)
-- Git [Download and Install](https://git-scm.com/download/win)
-- Nodejs [Download and Install](https://nodejs.org/en/download/)
-- Scoop Command-line Installer
-  - Install via PowerShell Terminal
-    - `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
-    - `irm get.scoop.sh | iex`
-- GCC Compiler
-  - Install gcc via [scoop](https://scoop.sh/): `scoop install gcc`
-- Neovim Hyperextensible Vim-based Text Editor
-  - Install bucket add extras via [scoop](https://scoop.sh/): `scoop bucket add extras`
-  - Install vcredist2022 via [scoop](https://scoop.sh/): `scoop install vcredist2022`
-  - Install neovim via [scoop](https://scoop.sh/): `scoop install neovim`
+1. Install [PowerShell Terminal](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-ph&gl=ph) = Shell
+2. Install [Git](https://git-scm.com/download/win)
+3. Install [Nodejs](https://nodejs.org/en/download/) = Package Manager
+4. Install [Scoop](https://scoop.sh/) = Command-line Installer
+5. Install [GCC](https://github.com/nvim-treesitter/nvim-treesitter/wiki/Windows-support#gcc) = Compiler
+6. Install [Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim) = Hyperextensible Vim-based Text Editor
 
 ***
 
