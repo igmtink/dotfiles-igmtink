@@ -3,6 +3,8 @@
 1. Install [TMUX](https://github.com/tmux/tmux/wiki/Installing)
 2. Copy all my files to your `~/.config/tmux/` folder.
 
+![Screenshot from 2022-11-14 22-18-43](https://user-images.githubusercontent.com/117252369/201683266-b1521a26-f89d-4b75-8a0e-e0fa20c2ae79.png)
+
 ***
 
 ## Keybind
