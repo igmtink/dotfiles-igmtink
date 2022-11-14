@@ -53,17 +53,12 @@
 
 ## Neovim Keybind
 #### Basic Neovim Keymap
-a - For insert text (edit text)
-
-o - Insert text in new line
-
-x - Deleting the character
-
-dw - Delete a word backwards
-
-y - For copying text
-
-u - Undo
+- `a = For insert text (edit text)`
+- `o = Insert text in new line`
+- `x = Deleting the character`
+- `dw = Delete a word backwards`
+- `y = For copying text`
+- `u = Undo`
 
 shift + v - Start linewise visual mode
 
