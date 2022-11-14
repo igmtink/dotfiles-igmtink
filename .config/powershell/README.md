@@ -58,9 +58,13 @@ Also change `Background opacity` to `50%` and enabled `Enable acrylic material`
 ## Powershell Keybind
 
 ctrl + shift + v - Split pane right
+
 ctrl + shift + s - Split pane down
+
 ctrl + shift + w / a / s / d - Resize pane
+
 ctrl + alt - w / a / s / d - Switch pane
+
 ctrl + shift + w - Close pane
 
 ***
