@@ -36,7 +36,7 @@ Also change `Background opacity` to `50%` and enabled `Enable acrylic material`
    - PSReadLine: `Install-Module PSReadLine -AllowPrerelease -Force`
    - PSFzf: `Install-Module -Name PSFzf`
    - Z: `Install-Module -Name z`
-8. Install `Oh-My-Posh` theme manager: `scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json`
+8. Install [Oh-My-Posh](https://ohmyposh.dev/docs/installation/windows#installation)
 9. Open `Microsoft.PowerShell_profile.ps1` by typing thins command: `nvim $PROFILE.CurrentUserCurrentHost`
 10. Type this code `. $env:USERPROFILE\.config\powershell\user_profile.ps1` and paste it.
 11. Copy all my files to your `.config` folder
