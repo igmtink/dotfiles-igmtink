@@ -99,41 +99,31 @@
 ***
 
 #### Lspsaga
-gr - Refactoring
-
-gd - Finder
-
-ctr + k - Diagnostic Jump
-
-ctrl + j - Diagnostic Jump Next
-
-shift + k - Hover Document
-
+- `gr = Refactoring`
+- `gd = Finder`
+- `ctr + k = Diagnostic Jump`
+- `ctrl + j = Diagnostic Jump Next`
+- `shift + k = Hover Document`
 
 ***
 
 #### Vim Surround
-ysw" - For surround the word with (double quote)
-
-cs"' - For replacing (double quote) with (single quot)
-
-ds" - For deleting the surround (double quote)
+- `ysw" = For surround the word with (double quote)`
+- `cs"' = For replacing (double quote) with (single quot)`
+- `ds" = For deleting the surround (double quote)`
 
 ***
 
 #### Comment
-gcc - Comment the line
-
-gc(number)j - Comment with specific number of line
+- `gcc = Comment the line`
+- `gc(number)j = Comment with specific number of line`
 
 ***
 
 #### Nvim Tree File Exporer
-leader + e - Open file explorer
-
-a - To create a file in file explorer
-
-d - Deleting a file in file explorer
+- `leader + e = Open file explorer`
+- `a = To create a file in file explorer`
+- `d = Deleting a file in file explorer`
 
 ## Neovim Plugins
 Requires [Neovim](https://neovim.io/) (>= 0.8)
