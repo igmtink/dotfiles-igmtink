@@ -85,25 +85,16 @@
 ***
 
 #### Telescope Fuzzy Finder
-sf - To find file
-
-c - Create new file / folder
-
-tab - To select file / folder
-
-y - Copy file / folder
-
-m - Move file / folder
-
-r - Rename
-
-d - Delete
-
-e - Go to home directory
-
-g - Go to parent directory
-
-w - Go to working directory
+- `sf = To find file`
+- `c = Create new file / folder`
+- `tab = To select file / folder`
+- `y = Copy file / folder`
+- `m = Move file / folder`
+- `r = Rename`
+- `d = Delete`
+- `e = Go to home directory`
+- `g = Go to parent directory`
+- `w = Go to working directory`
 
 ***
 
