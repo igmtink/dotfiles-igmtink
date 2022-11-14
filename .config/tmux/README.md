@@ -5,18 +5,18 @@
 
 ## Keybind
 #### Window
-- z + t = New Window
-- z + x = Kill Window
-- z + n = Next Window
-- z + p = Previous Window
+- `z + t = New Window`
+- `z + x = Kill Window`
+- `z + n = Next Window`
+- `z + p = Previous Window`
 
 #### Pane
-- z + \\ = Split Pane Horizontal
-- z + - = Split Pane Vertical
-- z + C-h = Resizing pane window
-- z + C-l = Resizing pane window
-- z + C-j = Resizing pane window
-- z + C-k = Resizing pane window
+- `z + \\ = Split Pane Horizontal`
+- `z + - = Split Pane Vertical`
+- `z + C-h = Resizing pane window`
+- `z + C-l = Resizing pane window`
+- `z + C-j = Resizing pane window`
+- `z + C-k = Resizing pane window`
 
 ***
 
