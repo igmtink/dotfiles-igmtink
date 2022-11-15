@@ -68,4 +68,12 @@ packer.startup(function(use)
 
 	-- Gitsigns
 	use("lewis6991/gitsigns.nvim")
+
+	-- Comment
+	use({
+		"numToStr/Comment.nvim",
+		config = function()
+			require("Comment").setup()
+		end,
+	})
 end)
