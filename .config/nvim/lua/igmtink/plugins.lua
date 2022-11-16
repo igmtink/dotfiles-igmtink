@@ -25,17 +25,11 @@ packer.startup(function(use)
 	-- Lsp
 	use("neovim/nvim-lspconfig")
 	use("glepnir/lspsaga.nvim")
-
-	-- Code Formatter
-	use("jose-elias-alvarez/null-ls.nvim") -- Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua
-	use("jayp0521/mason-null-ls.nvim")
-
 	-- Auto-completion: Lspkind and CMP
 	use("onsails/lspkind-nvim") -- Vscode-like pictograms
 	use("hrsh7th/cmp-buffer") -- Nvim-cmp source for buffer words
 	use("hrsh7th/cmp-nvim-lsp") -- Nvim-cmp source for neovim's built-in LSP
 	use("hrsh7th/nvim-cmp") -- Completion
-
 	-- Snippet
 	use("L3MON4D3/LuaSnip")
 
@@ -65,6 +59,10 @@ packer.startup(function(use)
 
 	-- Color higlighter
 	use("norcalli/nvim-colorizer.lua")
+
+	-- Code Formatter
+	use("jose-elias-alvarez/null-ls.nvim") -- Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua
+	use("jayp0521/mason-null-ls.nvim")
 
 	-- Gitsigns
 	use("lewis6991/gitsigns.nvim")
