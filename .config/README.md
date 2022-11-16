@@ -3,6 +3,6 @@
 ### Requirements
 - Git: `sudo apt install git`
 - Nodejs: 
-  - `curl -fsSL https://deb.nodesource.com/setup_19.x | sudo -E bash - &&\
+`curl -fsSL https://deb.nodesource.com/setup_19.x | sudo -E bash - &&\
 sudo apt-get install -y nodejs`
 - GCC Complier: `sudo apt install build-essential`
