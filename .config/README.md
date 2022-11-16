@@ -25,3 +25,8 @@ sudo apt install fish
 
 chsh -s $(which fish)
 ```
+
+TMUX:
+```fish
+sudo apt install tmux
+```
