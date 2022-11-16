@@ -1,5 +1,4 @@
 # Ubuntu 22.04.1
-
 ### Requirements
 Git:
 ```fish
