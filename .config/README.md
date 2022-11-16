@@ -16,8 +16,13 @@ GCC Complier:
 sudo apt install build-essential
 ```
 
+Tree-sitter-CLI:
+```fish
+sudo npm install -g tree-sitter-cli
+```
+
 Fish Shell:
-```bash
+```fish
 sudo apt-add-repository ppa:fish-shell/release-3
 sudo apt update
 sudo apt install fish
