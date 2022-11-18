@@ -124,7 +124,7 @@ nvim_lsp.cssls.setup {
 nvim_lsp.emmet_ls.setup({
   capabilities = capabilities,
   on_attach = on_attach,
-  filetypes = { "html", "typescriptreact", "javascriptreact", "css", "sass", "scss", "less", "svelte", "ejs" },
+  filetypes = { "html", "javascript", "javascriptreact", "javascript.jsx", "typescript", "typescriptreact", "typescript.tsx", "ejs", "css", "sass", "scss", "less", "svelte", "ejs" },
 })
 
 nvim_lsp.astro.setup {
