@@ -10,6 +10,7 @@ saga.init_lsp_saga {
     json = 'json',
     astro = 'astro',
     lua = 'lua',
+    ejs = 'ejs',
   }
 }
 
